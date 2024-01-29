@@ -6,4 +6,6 @@ Pra vcs mudarem algo nele, é só fazer uma nova Pull Request.
 
 Por favor montem comentários também, de preferência com oq cada um fez ou mudou com sua inicial do lado
 
+Os arquivos source estão em src/javatetris
+
 Beijos ;)
